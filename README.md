@@ -24,7 +24,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone <repository-url>
+git clone <https://github.com/Nurislam-React-Developer/Netflix-project-RedGroup.gitl>
 
 # Перейти в директорию проекта
 cd netflix-project-RedGroup
